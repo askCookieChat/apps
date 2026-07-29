@@ -81,11 +81,11 @@
     "live": true
   },
   {
-    "title": "CookieBox",
-    "description": "Liquidity Hub on Cookie Chain. Create pools, launch tokens, and claim fees.",
+    "title": "Cookiebox",
+    "description": "Liquidity Hub on Cookie Chain. Create pools, claim fees, and manage LP positions.",
     "tag": "DeFi",
     "href": "https://cookiebox.app/",
-    "x": "https://x.com/CookieBoxLP",
+    "x": "https://x.com/CookieboxLP",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookiebox.png",
     "live": true
   },
@@ -99,12 +99,13 @@
     "live": true
   },
   {
-    "title": "Bang",
-    "description": "A token launchpad for degens, communities, and builders to create and distribute tokens on COOK.",
+    "title": "MomoSwap",
+    "description": "Bonding-curve launchpad on Cookie Chain. Mint a token in under a minute, trade it on the curve, and graduate straight to a real DEX.",
     "tag": "DeFi",
-    "href": "https://banggor.com/",
-    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/bang.png",
-    "live": false
+    "href": "https://www.momoswap.fun/",
+    "x": "https://x.com/momoswapdotfun",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/momoswap.png",
+    "live": true
   },
   {
     "title": "Morsel Wallet",
