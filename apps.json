@@ -1,5 +1,14 @@
 [
   {
+  "title": "Cookie Chat",
+  "description": "AI assistant for Cookie Chain.",
+  "tag": "AI",
+  "href": "https://cookiechat.net/",
+  "x": "https://x.com/askCookieChat",
+  "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-chat.png",
+  "live": true
+  },
+  {
     "title": "CookieScan",
     "description": "A clean block explorer interface for tracking COOK blocks, transactions, and accounts.",
     "tag": "Infra",
